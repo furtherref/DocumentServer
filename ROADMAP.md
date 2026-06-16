@@ -13,13 +13,13 @@ We also reserve the right to change it when necessary.
 
 ### AI
 
-* Updating the AI ​​plugin in editors to the new version
+* Updating the AI plugin in editors to the new version
 * Updated look of the AI plugin in editors
 * Support for working with document content in the AI plugin
 * Support for working with spreadsheet content in the AI plugin
 * Support for working with presentation content in the AI plugin
 * Support for working with PDF content in the AI plugin
-* Support for MCP and web search in the AI ​​plugin
+* Support for MCP and web search in the AI plugin
 * Converting a document to a PDF form with fields
 * Adjustment of PDF form fields according to the surrounding context
 
@@ -40,7 +40,7 @@ We also reserve the right to change it when necessary.
 
 * Range highlighting in the formula bar similar to cells
 * Speeding up the calculation of IFS formulas
-* Speed ​​up for a large number of cell styles by separating styles and data
+* Speed up for a large number of cell styles by separating styles and data
 
 ### Presentation Editor
 
