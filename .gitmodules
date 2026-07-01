@@ -9,7 +9,7 @@
 	url = https://github.com/ONLYOFFICE/dictionaries.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/furtherref/onlyoffice-documentserver-sdkjs.git
 [submodule "server"]
 	path = server
 	url = https://github.com/ONLYOFFICE/server.git
